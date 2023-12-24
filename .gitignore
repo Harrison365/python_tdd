@@ -1,0 +1,12 @@
+**pycache**/
+\*.py[cod]
+
+build/
+.coverage
+.coverage.\*
+coverage.xml
+.pytest_cache/
+
+venv/
+
+.vscode/
