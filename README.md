@@ -4,7 +4,7 @@ This is a step-by-step guide to test-driven development (TDD) in python. From fi
 
 Please find all of the steps that you need in the TDD.md file.
 
-If you don't fancy following these tests and would like to get started straight away, simply make your directory, cd into it and run the following command:
+If you don't fancy following these steps and would like to get started straight away, simply make your directory, cd into it and run the following command:
 
 ```shell
 #!/bin/bash
