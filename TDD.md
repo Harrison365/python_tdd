@@ -58,7 +58,7 @@ assert expected == result #assert is built into python
 9. Set the PYTHONPATH environment variable (so that pytest knows where the function lives) using the following command:
 
 ```
-export PYTHONPATH=${pwd}
+export PYTHONPATH=$(pwd)
 ```
 
 10. Run pytest using the following command:
